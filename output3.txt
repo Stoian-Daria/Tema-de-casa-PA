@@ -1,0 +1,22 @@
+Numarul de carti este: 15
+Numarul de pagini generat pentru fiecare carte: 
+Cartea 1 are 9297 pagini;
+Cartea 2 are 9717 pagini;
+Cartea 3 are 2785 pagini;
+Cartea 4 are 1073 pagini;
+Cartea 5 are 2519 pagini;
+Cartea 6 are 5442 pagini;
+Cartea 7 are 3148 pagini;
+Cartea 8 are 5614 pagini;
+Cartea 9 are 2999 pagini;
+Cartea 10 are 7204 pagini;
+Cartea 11 are 6387 pagini;
+Cartea 12 are 2097 pagini;
+Cartea 13 are 1766 pagini;
+Cartea 14 are 3481 pagini;
+Cartea 15 are 5984 pagini;
+
+Distribuirea cartilor in sectiuni:
+Sectiunea 1: 9297 9717 2785 1073 2519 
+Sectiunea 2: 5442 3148 5614 2999 7204 
+Sectiunea 3: 6387 2097 1766 3481 5984 

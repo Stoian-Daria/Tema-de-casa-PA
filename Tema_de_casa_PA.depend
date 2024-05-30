@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1717052641 source:e:\tema_de_casa_pa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"distribute_books.h"
+
+1717050888 e:\tema_de_casa_pa\distribute_books.h
+
+1716810833 source:e:\tema_de_casa_pa\distribuire_pagini.c
+	"distribute_books.h"
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1717050618 source:e:\tema_de_casa_pa\distribute_books.c
+	"distribute_books.h"
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

@@ -1,0 +1,47 @@
+Numarul de carti este: 40
+Numarul de pagini generat pentru fiecare carte: 
+Cartea 1 are 9424 pagini;
+Cartea 2 are 2921 pagini;
+Cartea 3 are 1360 pagini;
+Cartea 4 are 9270 pagini;
+Cartea 5 are 8804 pagini;
+Cartea 6 are 4744 pagini;
+Cartea 7 are 3462 pagini;
+Cartea 8 are 2522 pagini;
+Cartea 9 are 1591 pagini;
+Cartea 10 are 6805 pagini;
+Cartea 11 are 618 pagini;
+Cartea 12 are 3815 pagini;
+Cartea 13 are 3214 pagini;
+Cartea 14 are 6195 pagini;
+Cartea 15 are 9510 pagini;
+Cartea 16 are 1796 pagini;
+Cartea 17 are 9751 pagini;
+Cartea 18 are 1625 pagini;
+Cartea 19 are 2949 pagini;
+Cartea 20 are 4989 pagini;
+Cartea 21 are 2381 pagini;
+Cartea 22 are 8628 pagini;
+Cartea 23 are 9034 pagini;
+Cartea 24 are 6105 pagini;
+Cartea 25 are 300 pagini;
+Cartea 26 are 5985 pagini;
+Cartea 27 are 403 pagini;
+Cartea 28 are 252 pagini;
+Cartea 29 are 758 pagini;
+Cartea 30 are 3099 pagini;
+Cartea 31 are 2399 pagini;
+Cartea 32 are 7133 pagini;
+Cartea 33 are 8757 pagini;
+Cartea 34 are 8210 pagini;
+Cartea 35 are 1677 pagini;
+Cartea 36 are 1002 pagini;
+Cartea 37 are 4002 pagini;
+Cartea 38 are 7981 pagini;
+Cartea 39 are 7031 pagini;
+Cartea 40 are 5243 pagini;
+
+Distribuirea cartilor in sectiuni:
+Sectiunea 1: 9424 2921 1360 9270 8804 4744 3462 2522 1591 6805 618 3815 3214 
+Sectiunea 2: 6195 9510 1796 9751 1625 2949 4989 2381 8628 9034 6105 300 
+Sectiunea 3: 5985 403 252 758 3099 2399 7133 8757 8210 1677 1002 4002 7981 7031 5243 
